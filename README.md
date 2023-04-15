@@ -1,6 +1,7 @@
 ## ABOUT
 
-This is a very loose approach of the idea that came to my mind after reading [Understanding Linux Malware](https://ieeexplore.ieee.org/document/8418602).
+The simplest antivirus ever.
+This is a very loose approach to an idea that came to my mind after reading [Understanding Linux Malware](https://ieeexplore.ieee.org/document/8418602).
 Specifically, this section:
 
  >... shows that over 50% of the samples
